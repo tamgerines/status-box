@@ -1,0 +1,45 @@
+html, body {
+	font-family: 'Arial';
+	font-size: small;
+	color: #404040;
+	background-color: #eee;
+}
+
+.container {
+	width: 400px;
+}
+
+.status-box {
+	border-radius: 3px;
+	width: 100%;
+}
+
+.button-group {
+
+}
+
+.counter {
+	display: inline;
+	margin-right: 10px;
+}
+
+.button {
+	
+}
+
+.posts {
+	list-style: none;
+	padding-left: 0;
+	width: 100%;
+}
+
+.posts li {
+	background-color: #fff;
+	border: 1px solid #d8d8d8;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	word-wrap: break-word;
+}
